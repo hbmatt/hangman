@@ -1,0 +1,26 @@
+---
+word:
+- a
+- s
+- c
+- e
+- n
+- d
+- a
+- n
+- t
+word_display_array:
+- a
+- s
+- _
+- e
+- _
+- _
+- a
+- _
+- t
+word_display: a s _ e _ _ a _ t
+strikes: 2
+incorrect_letters:
+- b
+- r
